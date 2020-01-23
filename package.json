@@ -29,7 +29,7 @@
     "@types/styled-components": "4.1.19",
     "@typescript-eslint/eslint-plugin": "2.6.0",
     "@typescript-eslint/parser": "2.6.0",
-    "electron": "7.0.0",
+    "electron": "7.1.10",
     "eslint": "6.6.0",
     "eslint-config-prettier": "6.4.0",
     "eslint-config-standard": "14.1.0",
@@ -41,7 +41,7 @@
     "typescript": "3.6.4"
   },
   "peerDependencies": {
-    "electron": "^6.0.12"
+    "electron": "^6.0.12 || ^7.0.0"
   },
   "eslintConfig": {
     "parser": "@typescript-eslint/parser",
